@@ -16,7 +16,8 @@ Program ini menghitung akar pangkat 2 (square root) dari input yang diberikan ol
 Untuk menjalankan program, gunakan perintah berikut:
 
 ```bash
-node soal1.js```
+node soal1.js
+```
 
 
 
