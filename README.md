@@ -21,7 +21,7 @@ node soal1.js
 
 
 
-### Program 1 - `soal2.js`
+### Program 2 - `soal2.js`
 
 Program ini bertujuan untuk menjumlahkan quantity dari semua storageId untuk sebuah produk yang diberikan. Anda dapat menggunakan program ini untuk menghitung total stok dari suatu produk berdasarkan beberapa gudang penyimpanan.
 
